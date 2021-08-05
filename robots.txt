@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://download-windows-11-wallpaper.herokuapp.com/host-https-ccm.net/sitemap/download/
+Sitemap: https://download-windows-11-wallpaper.herokuapp.com/sitemap.xml
